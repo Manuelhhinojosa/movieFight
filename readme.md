@@ -1,62 +1,37 @@
----
-# PROJECT  : JS app
----
+🎬 Movie Fight
 
-## Content ;
+A movie comparison app that fetches data from the OMDb API. This project was built as part of a school assignment and showcases interactive data comparison using real-time API requests.
 
-1. Title Of app & Quick Intro.
-2. app Screenshots.
-3. Technologies Used.
-4. Getting Started.
+📖 About the Project
 
----
+Movie Fight lets users search and compare two films side by side. The app pulls real-time data from the OMDb API and compares stats like ratings, awards, box office, and more — all rendered dynamically in the UI.
 
----
+Key features:
 
-### 1. Title Of The App :
+- Live search with autocomplete
+- Side-by-side stat comparison
+- OMDb API integration via Axios
+- Lightweight and responsive design
 
-Movie fight
+🛠️ Tech Stack
 
----
+- HTML
+- CSS
+- JavaScript
+- Axios
+- OMDb API
+- Netlify
 
-### 1. Quik Intro :
+🎓 Project Background
 
-Movie fight allows you to compare two different movies and outstands
-the one with better results.
+This was a school project aimed at mastering dynamic API data handling and DOM manipulation. The idea was to take a simple concept and turn it into a slick, interactive experience.
 
----
+🔗 Live Demo  
+https://moviecomparemhh.netlify.app
 
-### 2. Game Screenshots :
+💻 GitHub  
+https://github.com/Manuelhhinojosa/movieFight
 
-1. Main page.
+🚀 Deployed on Netlify
 
-![Main-page](readme/main.png)
-
-2. After searching
-
-![Main-page](readme/search.png)
-
-3. After selecting the two movies that are being compared
-
-![Main-page](readme/compare.png)
-
----
-
-### 3. Technologies Used :
-
-1. HTML
-2. CSS
-3. JavaScript
-4. git
-5. gitHub
-6. Netlify
-7. Axios
-8. DOM manipulation
-
----
-
-### 4. Getting Started :
-
-Click [here](https://superlative-bunny-0d9bb2.netlify.app) to view the app
-
----
+✨ Made with ❤️ by [Manuel H Hinojosa](https://manuelhinojosa.netlify.app).
